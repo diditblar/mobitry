@@ -481,4 +481,8 @@ h6,
 #header1-1 .mbr-section-title {
   text-align: center;
   font-size: 72px;
+  color: #f7da64;
+}
+#header1-1 .mbr-section-lead {
+  color: #ffffff;
 }
